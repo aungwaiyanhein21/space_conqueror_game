@@ -6,7 +6,7 @@
 
 <hr>
 
-<img src="images/space_conqueror.gif" width=100% />
+<img src="Images/space_conqueror.gif" width=100% />
 
 <hr>
 
